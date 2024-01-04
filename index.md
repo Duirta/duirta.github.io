@@ -14,10 +14,11 @@ This project focused on financial data analysis, employing statistical modeling,
 
 ### Superconductors Critical Temperature
 
-This project revolves around predicting superconductor critical temperatures using Python, leveraging a mix of NumPy, SciPy, scikit-learn, and TensorFlow. There was applied feature engineering, such as creating new features, handling zero values, managing duplicate indices, analyzing distributions, utilizing clustering techniques for grouping materials, custom activation functions, parameter uniformization, and autoencoders for dimensionality reduction. The final model integrates power law regression and employs random forests for fitting the residuals, resulting in a RMSE of 9.712 (3rd best on <a href="https://www.kaggle.com/c/superconductivity/leaderboard">Kaggle</a></p> competition).
+This project revolves around predicting superconductor critical temperatures using Python, leveraging a mix of NumPy, SciPy, scikit-learn, and TensorFlow. There was applied feature engineering, such as creating new features, handling zero values, managing duplicate indices, analyzing distributions, utilizing clustering techniques for grouping materials, custom activation functions, parameter uniformization, and autoencoders for dimensionality reduction. The final model integrates power law regression and employs random forests for fitting the residuals, resulting in a RMSE of 9.712 (3rd best on <a href="https://www.kaggle.com/c/superconductivity/leaderboard">Kaggle</a> competition).
 
 
-<img src="images/stocks_img.png?raw=true"/>
+<img src="images/superconductivity_hist.png?raw=true"/>
+<img src="images/superconductivity_errors.png?raw=true"/>
 
 
 
