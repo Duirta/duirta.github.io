@@ -11,6 +11,7 @@ This project focused on financial data analysis, employing statistical modeling,
 <img src="images/stocks_img.png?raw=true"/>
 
 <a href="https://github.com/eduardojfbatista/Stock-Portfolio-Allocator/">View code on Github</a>
+
 ---
 
 ### Superconductors Critical Temperature
