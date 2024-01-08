@@ -22,6 +22,9 @@ This project revolves around predicting superconductor critical temperatures usi
 <img src="images/superconductivity_hist.png?raw=true"/>
 <img src="images/superconductivity_errors.png?raw=true"/>
 
+
+<a href="https://github.com/eduardojfbatista/Superconductors-Critical-Temperature">View code on Github</a>
+
 ---
 
 ### Nuclear Fusion Reactor Sensors Data Analysis
