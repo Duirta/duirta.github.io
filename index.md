@@ -31,6 +31,7 @@ This project revolves around predicting superconductor critical temperatures usi
 
 In this project, I applied data science methodologies to analyze nuclear fusion reactor sensor data. Techniques such as Dynamic Time Warping (DTW), autocorrelation analysis, and Fast Fourier Transform (FFT) were employed to uncover patterns within the time-series data. Machine learning tools, including K-means clustering and dimensionality reduction through Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE), and Uniform Manifold Approximation and Projection (UMAP), were utilized to identify clusters and reduce high-dimensional data. Additionally, gradient analysis and Markov Transition Field (MTF) visualizations provided insights into the reactor's behavior. The project demonstrates proficiency in data science, covering signal processing, statistical analysis, machine learning, and dimensionality reduction, offering valuable insights into the dynamics of nuclear fusion reactions.
 
+<a href="https://drive.google.com/file/d/1TXZEMbmxqT-62jdaO84i9jwJeJdaKlX7/view?usp=sharing">View report</a>
 
 <a href="https://github.com/eduardojfbatista/Fusion-Reactor-Sensor-Data">View code on Github</a>
 
