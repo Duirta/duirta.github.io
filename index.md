@@ -22,7 +22,22 @@ This project revolves around predicting superconductor critical temperatures usi
 <img src="images/superconductivity_hist.png?raw=true"/>
 <img src="images/superconductivity_errors.png?raw=true"/>
 
+---
 
+### Nuclear Fusion Reactor Sensors Data Analysis
+
+In this project, I applied data science methodologies to analyze nuclear fusion reactor sensor data. Techniques such as Dynamic Time Warping (DTW), autocorrelation analysis, and Fast Fourier Transform (FFT) were employed to uncover patterns within the time-series data. Machine learning tools, including K-means clustering and dimensionality reduction through Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE), and Uniform Manifold Approximation and Projection (UMAP), were utilized to identify clusters and reduce high-dimensional data. Additionally, gradient analysis and Markov Transition Field (MTF) visualizations provided insights into the reactor's behavior. The project demonstrates proficiency in data science, covering signal processing, statistical analysis, machine learning, and dimensionality reduction, offering valuable insights into the dynamics of nuclear fusion reactions.
+
+
+<a href="https://github.com/eduardojfbatista/Fusion-Reactor-Sensor-Data">View code on Github</a>
+
+---
+
+### Keith Haring GAN
+
+In this project, a convolutional generative adversarial network (CGAN) was developed to emulate the visual style of Keith Haring's artwork. Utilizing color classification and clustering algorithms, the color profiles of a diverse collection of artworks were systematically characterized. These profiles were then used to associate latent vectors with each image, enabling the GAN to generate novel pieces reminiscent of Haring's iconic aesthetic. The code seamlessly integrates machine learning methodologies, such as Random Forest classifiers and K-means clustering, with generative modeling powered by a sophisticated GAN architecture. The project demonstrates the application of computational artistry in analyzing and generating art, offering a nuanced exploration at the intersection of art and data science.
+
+<a href="https://github.com/eduardojfbatista/Keith-Haring-GAN">View code on Github</a>
 
 
 
